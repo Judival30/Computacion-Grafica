@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Cola.cpp
+C:\Users\jmlop\OneDrive\Desktop\2024-2\Computacion Grafica\GLSL_Lighting\Cola.cpp(12,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jmlop\OneDrive\Desktop\2024-2\Computacion Grafica\GLSL_Lighting\Cola.cpp(27,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jmlop\OneDrive\Desktop\2024-2\Computacion Grafica\GLSL_Lighting\Cola.cpp(31,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jmlop\OneDrive\Desktop\2024-2\Computacion Grafica\GLSL_Lighting\Cola.cpp(31,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  TemplateProject.vcxproj -> C:\Users\jmlop\OneDrive\Desktop\2024-2\Computacion Grafica\GLSL_Lighting\Debug\TemplateProject.exe
